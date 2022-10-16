@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=auto&customColorList=1&height=300&section=header&text=DOOM%20ETERNAL&fontSize=90&animation=scaleIn)
 
+---
+
+### Контакты:
+- Kaggle: <https://www.kaggle.com/artemgotovtsev>
+- Почта: <artemiygotovtsev@gmail.com>
+
+---
+
+### Статистика
 ![Artem's github stats](https://github-readme-stats.vercel.app/api?username=linearbaby)
 
 | Проекты которыми горжусь | Проекты которыми почти горжусь | shame  |
